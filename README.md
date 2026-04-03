@@ -37,8 +37,15 @@ It simulates a production quality control process by:
    
 ## Screenshots
 
+
 ### Workflow
-![Project test](Project test.PNG)
+![Project test](Project%20test.PNG)
+
+### Production Output
+![Production Output](Production_output.PNG)
+
+### Error Log
+![Error Log](Error_log.PNG))
 
 ### Production Output
 ![Production Output](Production_output.PNG)
