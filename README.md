@@ -34,6 +34,16 @@ It simulates a production quality control process by:
 6. Valid records continue to processing
 7. NOK cases trigger an email alert
 8. Processed records are saved into `Production_Output`
+   
+## Screenshots
 
+### Workflow
+![Workflow](workflow.png)
+
+### Production Output
+![Production Output](Production_output.PNG)
+
+### Error Log
+![Error Log](Error_log.PNG)
 ## Author
 Hamza Belhaissi
